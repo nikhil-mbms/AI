@@ -1,1 +1,8 @@
+Location: A
+Room status: {'A': 'Dirty', 'B': 'Clean'}
+Action: Suck
+Location: B
+Room status: {'A': 'Clean', 'B': 'Clean'}
 
+All rooms are clean!
+Final state: {'A': 'Clean', 'B': 'Clean'}
